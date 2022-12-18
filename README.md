@@ -21,6 +21,7 @@ Npm install ganache-cli
 
 #### Let's Test Before Start Coding
 
+##### 1. Test Ganache
 In terminal just write ganache-cli this gives you everything that need to interaction with web 3.0. You should see :
 
 * A list of Accounts
@@ -31,3 +32,8 @@ In terminal just write ganache-cli this gives you everything that need to intera
 * Listening URL / port
 * Menemonic
 * Base HD Path for deriving addresses
+
+##### 2. Test Web 3.0
+```
+node index.js
+```
