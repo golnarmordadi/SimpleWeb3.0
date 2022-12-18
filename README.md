@@ -1,33 +1,33 @@
-## Clean Code❤️
+## Simple web 3.0 Sample❤️
 
-                   “Of course bad code can be cleaned up. But it’s very expensive.”
-                   ―Robert C. Martin
+                   “Have you heard of Web 3.0 ?”
 
+#### Installation
 ```
-Humans are the first people you writing code for them. We need to make sure that we're creating code that can be easily understand 
-by everyone whether the reader is the author of the code or a new programmer by smile 😉
-```
-                  “You should name a variable using the same care with which you name a first-born child.”
-                  ―Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
-#### What Is Clean Code?
-
-* Written with human in mind                                              
-* Names are easy to understand                                            
-* Formatted consistently                                               
-* Clearly communication
-
-
-```
-That's where 'Clean Code' principles come into play. By following them, you will ensure that you are 
-creating code that will be understood.
+Install node [12.16.2]
+Install npm [6.12.1]
+Npm install -g web3
+Npm install ganache-cli
 ```
 
-#### Definition Of Clean Code
+#### What Is Ganache?
 
-* Easy To Read
-* Easy To Understand
-* Easy To Improve
-* Easy To Fix
-* Easy to Maintenance
-* Keep Test Code Clean
+* Ganache CLI is the latest version of TestRPC                                             
+* A fast and customizable blockchain emulator                                            
+* It allows you to make calls to the blockchain without the overheads of running an actual Ethereum node                                        
+* Transactions are “mined” instantly
+* No transaction cost
 
+
+#### Let's Test Before Start Coding
+
+In terminal just write ganache-cli this gives you everything that need to interaction with web 3.0. You should see :
+
+* A list of Accounts
+* A list of publicKeys
+* A list of privateKeys
+* Gas Price
+* Gas Limmit
+* Listening URL / port
+* Menemonic
+* Base HD Path for deriving addresses
