@@ -37,3 +37,7 @@ In terminal just write ganache-cli this gives you everything that need to intera
 ```
 node index.js
 ```
+
+For being more familliar with the all functionallities of the web3 find the docs from :
+
+https://web3js.readthedocs.io/en/v1.8.1/
