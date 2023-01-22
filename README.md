@@ -1,4 +1,4 @@
-## Simple web 3.0 Sample❤️
+## Simple web 3.0 Sample
 
                    “Have you heard of Web 3.0 ?”
 
